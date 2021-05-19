@@ -6,6 +6,8 @@ Copy both of the downloaded cpp and .h files into:
 DestinationProject\Source\DestinationProject
 
 Open up the header file and replace:
+
+
 ![Image](https://i.gyazo.com/ff752ac9b1686193e680f48753008858.png)
 
 CPPSCRIPTING_API to <YOURPROJECTNAME>_API.
