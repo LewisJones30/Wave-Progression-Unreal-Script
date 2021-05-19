@@ -24,5 +24,6 @@ Finally, configure all of your arrays where appropriate!
 
 When an enemy is killed, you need to call "EnemyKilled" from the relevant actor, for every enemy that has been killed. Otherwise, the script will not progress correctly.
 Once all enemies have been killed, the next wave will immediately start.
+Note: I am not sure how to call from other classes, you will have to complete research yourself! Sorry!
 
 Note: You will need to program the method "AllWavesCompleted" yourself. There is no code implemented in this method, as it is up to you.
