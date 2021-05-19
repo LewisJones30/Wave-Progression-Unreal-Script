@@ -6,7 +6,7 @@ Copy both of the downloaded cpp and .h files into:
 DestinationProject\Source\DestinationProject
 
 Open up the header file and replace:
-https://i.gyazo.com/ff752ac9b1686193e680f48753008858.png
+![Image](https://i.gyazo.com/ff752ac9b1686193e680f48753008858.png)
 CPPSCRIPTING_API to <YOURPROJECTNAME>_API.
 
 In Visual Studio, right click your destination project and then choose Add -> Existing Item, and choose the CPP and header file.
